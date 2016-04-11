@@ -1,0 +1,2 @@
+JSNC is designed to provide Network Coordinate service for Internet users and websites with MINIMUM requirements and time. All a user needs is a web browser that supports JavaScript. To utilize JSNC, a website only needs to modify very few lines in its codes.
+JSNC is NOT the most accurate NC system. However, it's guaranteed to be FAST.
